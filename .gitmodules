@@ -1,0 +1,18 @@
+[submodule "prototype-chainlink-proof-of-reserves"]
+	path = prototype-chainlink-proof-of-reserves
+	url = git@github.com:CozyReef/prototype-chainlink-proof-of-reserves.git
+[submodule "cozyreef"]
+	path = cozyreef
+	url = git@github.com:CozyReef/cozyreef.git
+[submodule "infrastructure"]
+	path = infrastructure
+	url = git@github.com:CozyReef/infrastructure.git
+[submodule "art-generator"]
+	path = art-generator
+	url = git@github.com:CozyReef/art-generator.git
+[submodule "prototype-nftmint"]
+	path = prototype-nftmint
+	url = git@github.com:CozyReef/prototype-nftmint.git
+[submodule "prototype-chainlink"]
+	path = prototype-chainlink
+	url = git@github.com:CozyReef/prototype-chainlink.git
