@@ -1,6 +1,6 @@
 # Chainlink Fall 2021 Hackathon Submission
 
-Note: Private repos have been shared with `Chainlink-DevRel`
+Note: Private repos have been shared with `Chainlink-DevRel`. If you'd like us to spin up a game instance of `Slingshot Sailors` please reach out to us at [@TheCozyReef](twitter.com/thecozyreef)
 
 A megaproject containing all of our repos for the Fall 2021 Chainlink
 Hackathon.
