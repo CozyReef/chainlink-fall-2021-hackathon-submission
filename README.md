@@ -1,4 +1,4 @@
-# cCainlink Fall 2021 Hackathon Submission
+# Chainlink Fall 2021 Hackathon Submission
 
 Note: Private repos have been shared with `Chainlink-DevRel`
 
